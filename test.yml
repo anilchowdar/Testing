@@ -1,0 +1,4 @@
+---
+- hosts: test-servers
+  tasks: 
+    - name: create an emptry repo
