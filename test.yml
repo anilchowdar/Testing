@@ -3,3 +3,4 @@
   tasks: 
     - name: create an emptry repo
       test
+    - name: create a second repo
